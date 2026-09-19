@@ -36,17 +36,17 @@ linux/amd64` flags below are harmless no-ops — leave them in.
 
 ## 2. Quick reference
 
-| Challenge | Zip | Type | How to run |
+| Challenge | Zip | Type |
 |---|---|---|---|
-| P3 — Overload Containment Field | `P3-overload-containment-field.zip` | Offline binary (pwn) | §3 |
-| P4 — Nova Corps Scramble | `P4-nova-corps-scramble.zip` | Offline binary (logic) | §3 |
-| P5 — Corvus Glaive's Edge | `P5-corvus-glaives-edge.zip` | Offline binary (pwn) | §3 |
-| P6 — Worldminds Archive | `P6-worldminds-archive.zip` | Offline binary (pwn, ships its own libc) | §3.1 |
-| Shuri's Last Attempt | `Shuris_Last_Attempt_PARTICIPANT.zip` | Offline binary (RE) | §3 |
-| The Final Rip | `The_Final_Rip_DEPLOYMENT.zip` | Network service, port 1666 | §4.1 |
-| The Mind Stone | `The_Mind_Stone_DEPLOYMENT.zip` | Network service, port 1711 | §4.2 |
-| Corrupted by Thanos's Attack | `Corrupted_by_Thanos_Attack.zip` | Forensics (no execution) | §5 |
-| Corrupted by Thanos's Attack (v2) | `thanos_keks.zip` | Forensics (no execution) | §5 |
+| P3 — Overload Containment Field | `P3-overload-containment-field.zip` | Offline binary (pwn) | 
+| P4 — Nova Corps Scramble | `P4-nova-corps-scramble.zip` | Offline binary (logic) | 
+| P5 — Corvus Glaive's Edge | `P5-corvus-glaives-edge.zip` | Offline binary (pwn) | 
+| P6 — Worldminds Archive | `P6-worldminds-archive.zip` | Offline binary (pwn, ships its own libc) | 
+| Shuri's Last Attempt | `Shuris_Last_Attempt_PARTICIPANT.zip` | Offline binary (RE) | 
+| The Final Rip | `The_Final_Rip_DEPLOYMENT.zip` | Network service, port 1666 | 
+| The Mind Stone | `The_Mind_Stone_DEPLOYMENT.zip` | Network service, port 1711 | 
+| Corrupted by Thanos's Attack | `Corrupted_by_Thanos_Attack.zip` | Forensics (no execution) | 
+| Corrupted by Thanos's Attack (v2) | `thanos_keks.zip` | Forensics (no execution) |
 
 ## 3. Standalone offline binaries (P3, P4, P5, Shuri)
 
